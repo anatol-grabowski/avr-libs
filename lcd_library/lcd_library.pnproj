@@ -1,0 +1,1 @@
+<Project name="lcd_library"><File path="lcd.c"></File><File path="lcd.h"></File><File path="Makefile"></File><File path="test_lcd.c"></File></Project>
